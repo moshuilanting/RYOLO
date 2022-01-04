@@ -1,2 +1,2 @@
 # RYOLO
-a object-free visual relation detection method: Relation You Only Look Once
+a object-free visual relationship detection method for scene graph generation: Relationship You Only Look Once
